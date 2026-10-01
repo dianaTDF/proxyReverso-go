@@ -1,0 +1,28 @@
+# Binarios compilados
+proxy
+reverse_proxy
+*.exe
+*.exe?
+*.dll
+*.so
+*.dylib
+
+# Archivos de prueba y cobertura
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Entorno e IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+tmp/
+scratch/
